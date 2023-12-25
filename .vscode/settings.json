@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./aee/Cargo.toml",
+        "./aee/Cargo.toml",
+        "./aee/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
