@@ -1,4 +1,4 @@
 pub mod ast;
-pub mod parser;
-pub mod token;
-pub mod tokenizer;
+pub mod Parser;
+pub mod Token;
+pub mod Tokenizer;
